@@ -31,13 +31,10 @@ Options
 * extension - files of this extension will be changed (eg: "txt" will change text files)
 * subfolders - true or false if change files in subfolders
 
-How to Launch
--------------
+Running the Tool
+----------------
 
 open command prompt and launch CuddleTool.jar passing the three arguments above
-
-Results
--------
 
 to get output back in command prompt, run the jar like this
 <blockquote>
@@ -45,3 +42,8 @@ to get output back in command prompt, run the jar like this
 </blockquote>
 
 ![cmd](https://github.com/JamiePurchase/CuddleTool/blob/master/images/cmd.png?raw=true "Command Prompt")
+
+About the Author
+----------------
+
+You can learn more at my site: <a href = "https://jamieruntime.wordpress.com/" target = "_blank">JamieRuntime</a>
