@@ -10,16 +10,16 @@ Description
 Converts script files with braces how I write them, like this;
 
 <blockquote>
-public string function getHello(required string name)
-{
-	return "Hello " & arguments.name;
+public string function getHello(required string name)<br>
+{<br>
+	return "Hello " & arguments.name;<br>
 }
 </blockquote>
 
 ...to cuddled braces (how my team like them), like this;
 
 <blockquote>
-public string function getHello(required string name) {
+public string function getHello(required string name) {<br>
 	return "Hello " & arguments.name;
 }
 </blockquote>
