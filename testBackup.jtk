@@ -1,0 +1,8 @@
+function hello()
+{
+	say("hello");
+	if(x == y)
+	{
+		say("x == y");
+	}
+}
