@@ -4,6 +4,26 @@ Cuddle Tool
 Jamie Purchase
 20/11/2015
 
+Description
+-----------
+
+Converts script files with braces how I write them, like this;
+
+<blockquote>
+public string function getHello(required string name)
+{
+	return "Hello " & arguments.name;
+}
+</blockquote>
+
+...to cuddled braces (how my team like them), like this;
+
+<blockquote>
+public string function getHello(required string name) {
+	return "Hello " & arguments.name;
+}
+</blockquote>
+
 Options
 -------
 
@@ -24,4 +44,4 @@ to get output back in command prompt, run the jar like this
 	>java -jar ConsoleTest.jar "path" "extension" false
 </blockquote>
 
-![cmd](https://github.com/JamiePurchase/CuddleTool/blob/master/cmd.png?raw=true "Command Prompt")
+![cmd](https://github.com/JamiePurchase/CuddleTool/blob/master/images/cmd.png?raw=true "Command Prompt")
