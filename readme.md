@@ -23,3 +23,5 @@ to get output back in command prompt, run the jar like this
 <blockquote>
 	>java -jar ConsoleTest.jar "path" "extension" false
 </blockquote>
+
+![cmd](https://github.com/JamiePurchase/CuddleTool/blob/master/cmd.png?raw=true "Command Prompt")
