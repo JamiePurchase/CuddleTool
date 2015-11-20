@@ -1,5 +1,4 @@
-function hello() {
-	say("hello"); {
+function hello() { {
 		say("x == y");
 	}
 }

@@ -1,5 +1,0 @@
-Arguments
- path = 'C:\Users\Jamie\Documents\My Projects\CuddleTool'
- ext = 'txt'
- sub = 'false'
- is directory
